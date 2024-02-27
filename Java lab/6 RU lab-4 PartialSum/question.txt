@@ -1,0 +1,7 @@
+Examine the code given in "PartialSum.png" and "Demo.png" carefully. Now using that code as reference, write a your own multithreaded program to find the largest number from a very large array of random long integer numbers.
+
+1. each thread should find largest number from a specific portion of the array and return that number to main thread. Finaly main thread will find largst of the numbers returned by the child threads.
+
+2. Your code MUST be indented properly. Unindented code will be rejected.
+
+3. Use meaningful name for your classes and methods according to java naming convnsion (google it, if you dont know what the convensions are)

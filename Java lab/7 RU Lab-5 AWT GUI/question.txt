@@ -1,0 +1,6 @@
+Creating an AWT GUI application
+==============================
+follow the attached image to create an AWT based GUI application to perform addition.
+The result of the addition should be displayed on the "result" TextField. Use EvenDemo.java as a reference.
+
+Extra points will be given if you can use layoutManager to position the components exactly as the given image.

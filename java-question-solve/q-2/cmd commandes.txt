@@ -1,0 +1,3 @@
+javac MatrixSum.java
+
+java MatrixSum A.txt B.txt C.txt

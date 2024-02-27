@@ -1,0 +1,3 @@
+SingleInheritance.problem1
+SingleInheritance.student
+SingleInheritance.Human

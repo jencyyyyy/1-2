@@ -1,0 +1,2 @@
+Implement the problem given in the link below into a GUI application.
+https://www.tutorialspoint.com/design_pattern/observer_pattern.htm

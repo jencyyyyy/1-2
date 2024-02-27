@@ -1,0 +1,24 @@
+Create a Bank application named "BankApp"
+
+Bank has two account types-: Current Account, Savings account.
+Each account is associated with a name, address, phone number and initial amount.
+
+Use inheritance to create accounts. you should apply topics taught so far[ method overloading/ overriding, Abstract method, use of constructor, etc. ]
+
+Simulate account creation, deposit, withdrawal and balance inquiry in your application according to the following rules.
+
+Current Account :
+=> Account opening initial balance is Tk. 40000 or more.
+=> deposit interest rate is 4.5%
+=> User can do 6 transaction (deposit/withdrawal) per day.
+=> no daily withdrawal limit
+=> No Minimum Account Balance limit.
+
+
+Savings Account:
+=> Account opening initial balance is Tk. 1000 or more.
+=> deposite interest rate is 2.75%
+=> User can do 3 transaction per per day.
+=> maximum withdrawal amount 50000 per transaction
+=> daily withdrawal limit 120000
+=> Minimum Account Balance is 500.

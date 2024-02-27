@@ -1,0 +1,1 @@
+Build a notepad application in java as i described in the class. Use windows notepad as reference, add as much functionality as you can.
